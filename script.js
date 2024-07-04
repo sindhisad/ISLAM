@@ -1,3 +1,8 @@
+
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8513764659296539"
+     crossorigin="anonymous"></script>
+
+
 $(document).ready(function(){
 	
 	// Scrollspy initiation
